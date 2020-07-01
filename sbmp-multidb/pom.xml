@@ -20,7 +20,7 @@
 
     <properties>
         <spring.boot.version>2.1.0.RELEASE</spring.boot.version>
-        <mysql.version>8.0.12</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <mybatisplus.version>3.0.7.1</mybatisplus.version>
         <dynamic-datasource.version>2.5.0</dynamic-datasource.version>
         <lombok.version>1.18.2</lombok.version>
